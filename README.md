@@ -170,29 +170,12 @@ de pruebas de penetración
 
 ---
 
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Sigue estos pasos:
-
-```bash
-# 1. Fork del repositorio
-# 2. Crea tu rama
-git checkout -b feature/nuevo-recurso
-
-# 3. Haz commit de tus cambios
-git commit -m "add: nuevo recurso de ML para detección de intrusiones"
-
-# 4. Push y Pull Request
-git push origin feature/nuevo-recurso
-```
-
-> 📋 Por favor asegúrate de que el recurso sea de calidad, esté activo y agregue valor real a la lista.
 
 ---
 
 ## 📄 Licencia
 
-Este proyecto está bajo licencia **MIT** y **Creative Commons Attribution-ShareAlike 4.0 International**.
+Este proyecto está bajo licencia **WOLVESTI** y **Creative Commons Attribution-ShareAlike 4.0 International**.
 
 ---
 
