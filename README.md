@@ -175,7 +175,7 @@ de pruebas de penetración
 
 ## 📄 Licencia
 
-Este proyecto está bajo licencia **WOLVESTI** y **Creative Commons Attribution-ShareAlike 4.0 International**.
+Este proyecto está bajo licencia **WOLVESTI** .
 
 ---
 
@@ -185,5 +185,5 @@ Este proyecto está bajo licencia **WOLVESTI** y **Creative Commons Attribution-
 
 [![GitHub stars](https://img.shields.io/github/stars/kaleth4?style=social)](https://github.com/kaleth4)
 
-*Mantenido por [kaleth4](https://github.com/kaleth4) · WolvesTI · Bogotá, Colombia*
+*Mantenido por [kaleth4](https://github.com/kaleth4) · WolvesTI ·*
 
